@@ -1,4 +1,3 @@
-# WDDM-113-Project-2-Music-Player
 
 Assignment Content
 
